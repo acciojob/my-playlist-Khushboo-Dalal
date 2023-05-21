@@ -1,10 +1,15 @@
 /*  your css code here. If applicable */
+li
+{
+	list-style-type:none;
+}
 .player_one{
 	background-color:white;
 	border-radius:3px;
 	border:1px solid black;
 	padding:20px;
 }
+
 .player_two{
 	background-color:white;
 }
