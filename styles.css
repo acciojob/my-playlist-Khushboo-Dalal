@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+.player_one{
+	background-color:white;
+	border-radius:3px;
+	border:1px solid black;
+	padding:20px;
+}
+.player_two{
+	background-color:white;
+}
+a{
+	text-decoration-line:none;
+	color:black;
+}
+h1,h2,h3{
+	text-align:center;
+}
+
+.player_two{
+	margin: auto;
+  width: 50%;
+}
+/*.childone{
+	position: absolute;
+    left: 10px;
+	top: 10px;
+	right: 10px;
+}*/
